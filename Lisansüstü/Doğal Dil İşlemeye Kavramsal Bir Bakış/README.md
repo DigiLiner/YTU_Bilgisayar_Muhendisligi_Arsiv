@@ -1,4 +1,4 @@
-# 📚 Bilgisayar Mühendisliğinde Özel Konular
+# 📚 Doğal Dil İşlemeye Kavramsal Bir Bakış
 
 ## ℹ️ Ders Bilgileri
 
